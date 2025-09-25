@@ -1,0 +1,70 @@
+        *{
+            margin: 0px;
+            padding: 0px;
+        }
+        #nav{
+            height: 50px;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+        }
+        #loc{
+            height: 40px;
+            width: 40px;
+            background-color: blue;
+            border-radius: 7px;
+        }
+        #i1{
+            height: 38px;
+            width: 38px;
+        }
+        #i2{
+            height: 30px;
+            width: 30px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-end;
+            
+        }
+        #addloc{
+            height: 18px;
+            width: 200px;
+        }
+        #p1{
+            color: blue;
+            font-size: 18px;
+        }
+        input{
+            height: 40px;
+            width: 80%;
+        }
+        #sbar{
+            display: flex;
+            justify-content: center;
+        }
+        #bg1{
+            height: 280px;
+            width: 80%;
+            background-color: blue;
+            margin-left: 145px;
+        }
+        #i3{
+            margin-left: 380px;
+            margin-top: 30px;
+        }
+        #bg-1{
+            height: 120px;
+            width: 80%;
+            background-color: blue;
+            margin-left: 145px;
+            display: flex;
+            justify-content: space-between;
+        }
+        #bg2{
+            height: 200px;
+            width: 80%;
+            background-color:white;
+            margin-left: 145px;
+            display: flex;
+            justify-content: space-between;
+        }
